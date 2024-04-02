@@ -6,10 +6,10 @@ on:
     paths:
       - stardust/**
     branches:
-      - um40
+      - main
   pull_request:
     branches:
-      - um40
+      - main
   workflow_dispatch:
   workflow_call:
 
